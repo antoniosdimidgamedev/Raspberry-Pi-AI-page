@@ -13,7 +13,7 @@ An interactive, single-page web application showcasing the complete Raspberry Pi
 
 ## 🌐 Live Demo
 
-> 🔗 **[View Live Demo](https://YOUR_USERNAME.github.io/YOUR_REPO/)**
+> 🔗 **[View Live Demo](https://antoniosdimidgamedev.github.io/Raspberry-Pi-AI-page/)**
 
 *(Replace with your actual GitHub Pages URL after deployment)*
 
